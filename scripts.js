@@ -31,5 +31,5 @@ else if (imc >= 35 && imc <= 39.99){
 }
 
 else{
-    alert(`${nome, imc} Obesidade grau III`)
+    alert(`Nome: ${nome}\nÍndice de massa corporal: ${imc} \nClassificação: Obesidade grau III`)
 }
